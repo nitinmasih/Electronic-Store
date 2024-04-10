@@ -1,0 +1,40 @@
+
+
+.d-flex input{
+      margin: 0.9em 0em;
+}
+
+.d-flex button{
+      padding: .3em 2.4em;
+      margin: 1.5em;
+}
+.container table{
+      margin: 1em 10em;
+}
+#edit-icon{
+      color: rgb(108, 173, 32);
+      cursor: pointer;
+}
+#delete-icon{
+      color: red;
+      cursor: pointer;
+}
+.table-content{
+      width: 50vw;
+            margin: auto;}
+
+
+input{
+      cursor: pointer;
+}           
+
+.button-select{
+      width: 30vw;
+    margin: auto;
+      gap: 40px;
+      display: flex;
+      margin-bottom: 25px;
+}
+.button-select button{
+      padding: 8px 28px;
+} 
